@@ -14,3 +14,4 @@ valor_indice = indice_parametro + len(parametro_busca) + 1
 valor = url_parametros[valor_indice:]
 
 print(valor)
+
